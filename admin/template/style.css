@@ -1,0 +1,34 @@
+.token-input-list {
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.albumSelect {
+  width: 600px;
+}
+
+.chzn-container {
+  font-size: 12px !important;
+}
+
+.chzn-choices li {
+  margin-bottom: 1px !important;
+  padding: 3px 20px 3px 5px !important;
+  border-bottom-style: solid !important;
+}
+
+.search-field {
+  border-width: 0px !important;
+}
+
+.chzn-choices .search-field input {
+  padding-bottom: 1px !important;
+}
+
+#batchManagerGlobal .actionButtons {
+  display: block;
+}
+
+#batchManagerGlobal #applyRelayBlock {
+  width: auto;
+}
